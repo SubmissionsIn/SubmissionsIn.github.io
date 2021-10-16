@@ -3,6 +3,6 @@
 ### Research interests:
 #### Deep Learning, Multi-view clustering, Multi-modal learning.
 ### Education:
-#### PhD candidate.
+#### PhD Student.
 ### GitHub:
 #### <https://github.com/SubmissionsIn>.
