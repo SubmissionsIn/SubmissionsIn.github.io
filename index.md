@@ -2,7 +2,7 @@
 ### Institution:
 #### School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC), china. 
 ### Research interests:
-#### Deep clustering, Multi-view clustering, Incomplete multi-view learning.
+#### Artificial Intelligence, Computer Vision, Data Mining.
 ### Education:
 #### PhD Student.
 ### GitHub:
