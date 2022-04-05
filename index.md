@@ -8,4 +8,4 @@
 ### Publications:
 #### https://scholar.google.com/citations?user=YT1_9swAAAAJ&hl=zh-CN
 ### GitHub:
-#### <https://github.com/SubmissionsIn>.
+#### https://github.com/SubmissionsIn
