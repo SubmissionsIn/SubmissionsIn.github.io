@@ -1,6 +1,6 @@
 ### Jie Xu
 ### Institution:
-#### School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC), 611731, chengdu, china.
+#### School of Computer Science and Engineering (SCSE), University of Electronic Science and Technology of China (UESTC), 611731, Chengdu, China.
 ### Research interest:
 #### Artificial Intelligence, Computer Vision, Data Mining.
 ### Education:
