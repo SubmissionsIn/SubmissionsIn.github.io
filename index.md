@@ -2,13 +2,13 @@
 ### Institution:
 #### School of Computer Science and Engineering (SCSE), University of Electronic Science and Technology of China (UESTC), 611731, Chengdu, China.
 ### Research interest:
-#### Artificial Intelligence, Computer Vision, Data Mining.
+#### Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Pattern Recognition, etc.
 ### Education:
-#### Ph.D Student.
+#### Ph.D. Student.
 ### Publication:
 #### <https://scholar.google.com/citations?user=YT1_9swAAAAJ&hl=zh-CN>.
 ### GitHub:
 #### <https://github.com/SubmissionsIn>.
 ### Service:
-#### Reviewer of TIP, TKDE, IP&M, Neurocomputing, etc. 
+#### Reviewer of TIP, TKDE, IP&M, Neurocomputing, etc.
 #### Reviewer or PC member of CVPR, ECCV, SIGKDD, CIKM, ECAI, etc.
