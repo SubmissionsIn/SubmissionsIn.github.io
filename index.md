@@ -5,8 +5,6 @@
 #### Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Pattern Recognition, etc.
 ### Education:
 #### Ph.D. Student.
-### Publication:
-#### <https://scholar.google.com/citations?user=YT1_9swAAAAJ&hl=zh-CN>.
 ### GitHub:
 #### <https://github.com/SubmissionsIn>.
 ### Service:
