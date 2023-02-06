@@ -1,20 +1,22 @@
-### Jie Xu
+## Jie Xu
 ### Institution:
 #### School of Computer Science and Engineering (SCSE), University of Electronic Science and Technology of China (UESTC), 611731, Chengdu, China.
 ### Research interest:
 #### Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Pattern Recognition, etc.
 ### Education:
 #### Ph.D. Student.
+### Google Scholar Profile:
+#### <https://scholar.google.com/citations?user=YT1_9swAAAAJ&hl=en>.
 ### GitHub:
 #### <https://github.com/SubmissionsIn>.
-### ACADEMIC SERVICES as Program Committee Member of Conferences:
+### Academic Services as Program Committee Member of Conferences:
 #### IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2022, 2023
 #### IEEE/CVF International Conference on Computer Vision (ICCV): 2023
 #### European Conference on Computer Vision (ECCV): 2022
 #### ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2022, 2023
 #### ACM International Conference on Information and Knowledge Management (CIKM): 2022
 #### European Conference on Artificial Intelligence (ECAI): 2020
-### ACADEMIC SERVICES as Journal Reviewer:
+### Academic Services as Journal Reviewer:
 #### IEEE Transactions on Image Processing (TIP)
 #### IEEE Transactions on Knowledge and Data Engineering (TKDE)
 #### IEEE Transactions on Neural Networks and learning systems (TNNLS)
