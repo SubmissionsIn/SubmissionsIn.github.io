@@ -23,8 +23,8 @@
 #### Information Processing and Management (IPM)
 #### Neurocomputing
 ### Honors and Awards:
-#### National Scholarship, 2019, 2022 (< 1.5\%)
-#### National Encouragement Scholarship, 2017, 2018 (< 2.5\%)
+#### National Scholarship, 2019, 2022 (< 1.5%)
+#### National Encouragement Scholarship, 2017, 2018 (< 2.5%)
 #### UESTC Academic Newcomer Award, 2022
-#### UESTC Excellent Graduate Students, 2020 (< 1.5\%)
+#### UESTC Excellent Graduate Students, 2020 (< 1.5%)
 #### UESTC Scholarship for Outstanding Students, First Prize, 2017, 2018, 2019, 2022
