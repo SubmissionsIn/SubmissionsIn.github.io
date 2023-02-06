@@ -1,6 +1,6 @@
 ## Jie Xu
 ### Institution:
-#### &ensp; Center for Future Media **[CFM](https://cfm.uestc.edu.cn/index)**, School of Computer Science and Engineering (SCSE),
+#### &ensp; Center for Future Media (**[CFM](https://cfm.uestc.edu.cn/index)**), School of Computer Science and Engineering (SCSE),
 #### &ensp; University of Electronic Science and Technology of China (UESTC), 611731, Chengdu, China.
 ### Research interest:
 #### &ensp; Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Pattern Recognition, etc.
