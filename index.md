@@ -6,8 +6,6 @@
 #### &ensp; Pattern Recognition and Machine Intelligence.
 ### Education:
 #### &ensp; Ph.D. Student.
-### Google Scholar Profile:
-#### &ensp; <https://scholar.google.com/citations?user=YT1_9swAAAAJ&hl=en>.
 ### GitHub:
 #### &ensp; <https://github.com/SubmissionsIn>.
 ### Academic Services as Program Committee Member of Conferences:
