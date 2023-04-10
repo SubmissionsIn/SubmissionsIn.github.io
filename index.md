@@ -26,4 +26,4 @@
 #### &ensp; National Encouragement Scholarship, 2017, 2018
 #### &ensp; UESTC Academic Newcomer Award, 2022
 #### &ensp; UESTC Excellent Graduate Students, 2020
-#### &ensp; UESTC Scholarship for Outstanding Students, First Prize, 2017, 2018, 2019, 2022
+#### &ensp; UESTC Scholarship for Outstanding Students, 2017, 2018, 2019, 2021, 2022
