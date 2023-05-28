@@ -21,6 +21,7 @@
 #### &ensp; IEEE Transactions on Image Processing (TIP)
 #### &ensp; IEEE Transactions on Knowledge and Data Engineering (TKDE)
 #### &ensp; IEEE Transactions on Neural Networks and learning systems (TNNLS)
+#### &ensp; IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 #### &ensp; Information Processing and Management (IPM)
 #### &ensp; Neurocomputing
 ### Honors and Awards:
