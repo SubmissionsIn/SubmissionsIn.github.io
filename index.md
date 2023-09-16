@@ -14,6 +14,7 @@
 #### &ensp; European Conference on Computer Vision (ECCV): 2022
 #### &ensp; ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2022, 2023
 #### &ensp; ACM International Conference on Information and Knowledge Management (CIKM): 2022, 2023
+#### &ensp; SIAM International Conference on Data Mining (SDM): 2024
 #### &ensp; ACM International Conference on Multimedia (ACM MM): 2023
 #### &ensp; AAAI Conference on Artificial Intelligence (AAAI): 2024
 #### &ensp; European Conference on Artificial Intelligence (ECAI): 2020
