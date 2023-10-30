@@ -10,7 +10,7 @@
 #### &ensp; <https://github.com/SubmissionsIn>.
 ### Academic Services as Program Committee Member of Conferences:
 #### &ensp; IEEE/CVF International Conference on Computer Vision (ICCV): 2023
-#### &ensp; IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2022, 2023
+#### &ensp; IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2022, 2023, 2024
 #### &ensp; European Conference on Computer Vision (ECCV): 2022
 #### &ensp; ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2022, 2023
 #### &ensp; ACM International Conference on Information and Knowledge Management (CIKM): 2022, 2023
@@ -32,4 +32,4 @@
 #### &ensp; National Scholarship, 2019, 2022
 #### &ensp; UESTC Academic Newcomer Award, 2022
 #### &ensp; UESTC Outstanding Graduate Students & Outstanding Graduate Thesis Award, 2020
-#### &ensp; UESTC Scholarship for Outstanding Students, 2017, 2018, 2019, 2021, 2022
+#### &ensp; UESTC Scholarship for Outstanding Students, 2017, 2018, 2019, 2021, 2022, 2023
