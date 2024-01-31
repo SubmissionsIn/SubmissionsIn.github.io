@@ -1,4 +1,3 @@
 Hi. 
-\\begin{center}
-\\includegraphics[width=8in]{./2024_JIEXU_RESUME.pdf}
-\\end{center}
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=http://example.com/the.pdf" width="500" height="375">
